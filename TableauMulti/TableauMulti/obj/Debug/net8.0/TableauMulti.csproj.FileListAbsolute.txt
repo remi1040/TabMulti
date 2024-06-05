@@ -1,0 +1,14 @@
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\bin\Debug\net8.0\TableauMulti.exe
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\bin\Debug\net8.0\TableauMulti.deps.json
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\bin\Debug\net8.0\TableauMulti.runtimeconfig.json
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\bin\Debug\net8.0\TableauMulti.dll
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\bin\Debug\net8.0\TableauMulti.pdb
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\TableauMulti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\TableauMulti.AssemblyInfoInputs.cache
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\TableauMulti.AssemblyInfo.cs
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\TableauMulti.csproj.CoreCompileInputs.cache
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\TableauMulti.dll
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\refint\TableauMulti.dll
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\TableauMulti.pdb
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\TableauMulti.genruntimeconfig.cache
+C:\Users\remim\source\repos\TableauMulti\TableauMulti\obj\Debug\net8.0\ref\TableauMulti.dll
